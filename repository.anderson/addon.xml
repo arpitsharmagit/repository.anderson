@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.anderson" name="Anderson Repository" version="3.0.0" provider-name="anderson">
+    <extension point="xbmc.addon.repository" name="Anderson Repository">
+        <dir minversion="19.0">
+            <info compressed="true">https://raw.githubusercontent.com/arpitsharmagit/repository.anderson/v3.0.0/addons.xml.gz</info>
+            <checksum>https://raw.githubusercontent.com/arpitsharmagit/repository.anderson/v3.0.0/addons.xml.gz.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/arpitsharmagit/repository.anderson/v3.0.0/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Anderson Repository for Kodi</summary>
+        <description>A Repository for Streaming Add-ons of Indian OTT Providers</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <clearlogo>icon.png</clearlogo>
+        </assets>
+    </extension>
+</addon>

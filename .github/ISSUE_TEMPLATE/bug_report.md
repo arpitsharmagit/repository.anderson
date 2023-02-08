@@ -3,7 +3,7 @@ name: Bug report
 about: If something doesn't work
 title: ''
 labels: bug
-assignees: iMro0t
+assignees: arpitsharmagit
 
 ---
 
